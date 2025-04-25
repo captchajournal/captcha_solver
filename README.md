@@ -18,7 +18,7 @@ Looking to automate your scraping, testing, or bot tasks without getting blocked
 
 ### 🥈 2) [noCaptchaAI](https://noCaptchaAI.com)
 
-![noCaptchaAI](https://raw.githubusercontent.com/captchajournal/captcha_solver/refs/heads/main/best%20captcha%20solver/nocaptchaai.png)
+![noCaptchaAI](https://raw.githubusercontent.com/captchajournal/captcha_solver/refs/heads/main/best%20captcha%20solver/nocaptchaai.png) (https://noCaptchaAI.com)
 
 **Why it stands out:**  
 - AI-based, fully automated—no human solvers  
